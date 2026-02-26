@@ -26,17 +26,16 @@ date-format: "YYYY-MM-DD" # Example: 2025-09-06
 :::::::::::::: {.columns align=center}
 ::: {.column width="70%"}
 
-  * Кулябов Дмитрий Сергеевич
-  * д.ф.-м.н., профессор
-  * профессор кафедры теории вероятностей и кибербезопасности
+  * Мургия Марк Максимович
+  * студент НПИбд-02-25
   * Российский университет дружбы народов им. П. Лумумбы
-  * [kulyabov-ds@rudn.ru](mailto:kulyabov-ds@rudn.ru)
-  * <https://yamadharma.github.io/ru/>
+  * студенческий билет 1132243817
+  * <https://github.com/MarkusMaximuss>
 
 :::
 ::: {.column width="30%"}
 
-![](./image/kulyabov.jpg)
+![](./image/murgia.jpg)
 
 :::
 ::::::::::::::
