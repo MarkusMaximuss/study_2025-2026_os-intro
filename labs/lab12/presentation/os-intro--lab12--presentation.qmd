@@ -1,22 +1,21 @@
 ---
 ## Author
 author:
-  name: Дмитрий Сергеевич Кулябов
+  name: Мургия Марк Максимович
   degrees: DSc
-  orcid: 0000-0002-0877-7063
-  email: kulyabov-ds@rudn.ru
+  orcid: 0009-0006-9370-0808
+  email: 1132243817@rudn.ru
   affiliation:
     - name: Российский университет дружбы народов
       country: Российская Федерация
       postal-code: 117198
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
+
 ## Title
-title: Структура научной презентации
-subtitle: Простейший вариант
-license: CC BY
-date: today
-date-format: "YYYY-MM-DD" # Example: 2025-09-06
+title: "Отчет Лабораторной работы №11"
+subtitle: " Текстовой редактор emacs"
+license: "CC BY"
 ---
 
 # Информация
@@ -26,17 +25,16 @@ date-format: "YYYY-MM-DD" # Example: 2025-09-06
 :::::::::::::: {.columns align=center}
 ::: {.column width="70%"}
 
-  * Кулябов Дмитрий Сергеевич
-  * д.ф.-м.н., профессор
-  * профессор кафедры теории вероятностей и кибербезопасности
+  * Мургия Марк Максимович
+  * студент НПИбд-02-25
   * Российский университет дружбы народов им. П. Лумумбы
-  * [kulyabov-ds@rudn.ru](mailto:kulyabov-ds@rudn.ru)
-  * <https://yamadharma.github.io/ru/>
+  * студенческий билет 1132243817
+  * <https://github.com/MarkusMaximuss>
 
 :::
 ::: {.column width="30%"}
 
-![](./image/kulyabov.jpg)
+![](./image/murgia.jpg)
 
 :::
 ::::::::::::::
